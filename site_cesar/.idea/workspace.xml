@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ece7cf4-e576-4f62-a199-d89d0c25d981" name="Default" comment="" />
+    <ignored path="site_cesar.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="site_cesar" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="noticias.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/noticias.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="110.84615" vertical-offset="5993" max-vertical-offset="7276">
+              <caret line="186" column="31" selection-start-line="186" selection-start-column="31" selection-end-line="186" selection-end-column="31" />
+              <folding>
+                <marker date="1443208251500" expanded="true" signature="6632:7480" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="6792:6804" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="6986:6998" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="7221:7278" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="7279:7444" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="8612:8717" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="8950:9933" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="9165:9475" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="11110:11215" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="11448:12429" placeholder="..." />
+                <marker date="1443208251500" expanded="true" signature="11661:11971" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/banner.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.5" vertical-offset="6231" max-vertical-offset="7055">
+              <caret line="408" column="13" selection-start-line="408" selection-start-column="13" selection-end-line="408" selection-end-column="13" />
+              <folding>
+                <marker date="1443208208692" expanded="true" signature="7494:7595" placeholder="..." />
+                <marker date="1443208208692" expanded="true" signature="7832:8772" placeholder="..." />
+                <marker date="1443208208692" expanded="true" signature="8043:8320" placeholder="..." />
+                <marker date="1443208208692" expanded="true" signature="9317:10165" placeholder="..." />
+                <marker date="1443208208692" expanded="true" signature="9477:9489" placeholder="..." />
+                <marker date="1443208208692" expanded="true" signature="9671:9683" placeholder="..." />
+                <marker date="1443208208692" expanded="false" signature="9906:9963" placeholder="..." />
+                <marker date="1443208208692" expanded="true" signature="9964:10129" placeholder="..." />
+                <marker date="1443208208692" expanded="true" signature="10989:11090" placeholder="..." />
+                <marker date="1443208208692" expanded="true" signature="11323:12268" placeholder="..." />
+                <marker date="1443208208692" expanded="true" signature="11534:11811" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sobre.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/sobre.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="153.34616" vertical-offset="4956" max-vertical-offset="6171">
+              <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+              <folding>
+                <marker date="1442939965480" expanded="true" signature="4857:5705" placeholder="..." />
+                <marker date="1442939965480" expanded="true" signature="5017:5029" placeholder="..." />
+                <marker date="1442939965480" expanded="true" signature="5211:5223" placeholder="..." />
+                <marker date="1442939965480" expanded="false" signature="5446:5503" placeholder="..." />
+                <marker date="1442939965480" expanded="true" signature="5504:5669" placeholder="..." />
+                <marker date="1442939965480" expanded="true" signature="6758:6857" placeholder="..." />
+                <marker date="1442939965480" expanded="true" signature="7090:7830" placeholder="..." />
+                <marker date="1442939965480" expanded="true" signature="7239:7381" placeholder="..." />
+                <marker date="1442939965480" expanded="true" signature="8645:8744" placeholder="..." />
+                <marker date="1442939965480" expanded="true" signature="8977:9717" placeholder="..." />
+                <marker date="1442939965480" expanded="true" signature="9126:9268" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_KM/public_html/assets/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8755">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_KM/public_html/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.058419243" vertical-offset="0" max-vertical-offset="582">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_KM/public_html/.htaccess" />
+        <option value="$PROJECT_DIR$/_KM/public_html/assets/js/jquery.form.min.js" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/LastId.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Database/Connection.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/Cliente.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/ModelBanner.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/Banner.phtml" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/Cidade.phtml" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/ModelNoticia.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/ModelSobre.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/ModelMidia.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Controller/logar.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/ModelLogar.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/includes/login.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/Logado.phtml" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/includes/sair.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Controller/sair.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/Home.phtml" />
+        <option value="$PROJECT_DIR$/_KM/public_html/assets/css/form.css" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/includes/logado_permitido.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/Usuario.phtml" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/Sobre.phtml" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/Permissao.phtml" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Controller/home.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Controller/logado.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/SemAcesso.phtml" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Controller/acessos.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/ModelUsuario.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/ModelPermissoes.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Controller/usuario.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Controller/sobre.php" />
+        <option value="$PROJECT_DIR$/_KM/public_html/assets/js/script.js" />
+        <option value="$PROJECT_DIR$/_KM/public_html/assets/js/script_uploads.js" />
+        <option value="$PROJECT_DIR$/_KM/module/autoload.php" />
+        <option value="$PROJECT_DIR$/_KM/public_html/index.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/includes/menu.phtml" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Controller/banner.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Controller/noticias.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/includes/conexao.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/Model/AbstractModel.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/includes/head.php" />
+        <option value="$PROJECT_DIR$/_KM/module/Application/View/Noticia.phtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_cesar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_cesar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_cesar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_KM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_cesar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_cesar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_KM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_cesar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_cesar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_KM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public_html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_cesar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_cesar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_KM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projetos\site_cesar\_KM\public_html" />
+      <recent name="D:\Projetos\site_cesar\_KM" />
+      <recent name="D:\Projetos\site_cesar\_KM\module" />
+      <recent name="D:\Projetos\site_cesar\_KM\module\Application\View" />
+      <recent name="D:\Projetos\site_cesar\_KM\module\Application\Controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ece7cf4-e576-4f62-a199-d89d0c25d981" name="Default" comment="" />
+      <created>1439204840676</created>
+      <option name="number" value="Default" />
+      <updated>1439204840676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32861635" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Http/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1030928" vertical-offset="642" max-vertical-offset="1224">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/public_html/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/public_html/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1118421" vertical-offset="0" max-vertical-offset="608">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/ControllerInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/cidade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1683">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.269231" vertical-offset="1687" max-vertical-offset="2295">
+          <caret line="118" column="9" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="28.615385" vertical-offset="948" max-vertical-offset="1530">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/public_html/assets/js/jquery.form.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="10" column="14900" selection-start-line="10" selection-start-column="14900" selection-end-line="10" selection-end-column="14900" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Database/ResultSet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="53.46154" vertical-offset="1390" max-vertical-offset="1972">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Database/Exception/SQLException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/Itens.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/ModelInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Database/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7371134" vertical-offset="642" max-vertical-offset="1224">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-62.692307" vertical-offset="1311" max-vertical-offset="3944">
+          <caret line="173" column="0" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/Cidade.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="255" max-vertical-offset="1785">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/AbstractController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5841924" vertical-offset="922" max-vertical-offset="1734">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/ModelNoticia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="1360" max-vertical-offset="1955">
+          <caret line="80" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/ModelSobre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41827768" vertical-offset="714" max-vertical-offset="1462">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/Banner.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="3009">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/Logado.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="459">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/public_html/assets/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="850">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/sair.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="374">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/Home.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="986">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/Permissao.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5817223" vertical-offset="638" max-vertical-offset="2227">
+          <caret line="57" column="66" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/Usuario.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7469244" vertical-offset="1785" max-vertical-offset="2499">
+          <caret line="130" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="141" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/SemAcesso.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.076923" vertical-offset="9" max-vertical-offset="578">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/logado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="391">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/imagem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="51" max-vertical-offset="816">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/estado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1785">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/acessos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="38.923077" vertical-offset="1403" max-vertical-offset="1989">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/ModelUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.307692" vertical-offset="1216" max-vertical-offset="1785">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/Cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385" vertical-offset="255" max-vertical-offset="952">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/ModelMidia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.384615" vertical-offset="1522" max-vertical-offset="2091">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="114" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.615385" vertical-offset="2423" max-vertical-offset="3162">
+          <caret line="175" column="40" selection-start-line="175" selection-start-column="40" selection-end-line="175" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/ModelPermissoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5384617" vertical-offset="366" max-vertical-offset="1326">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/ModelBanner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.8681898" vertical-offset="0" max-vertical-offset="1819">
+          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/public_html/assets/css/form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.611842" vertical-offset="0" max-vertical-offset="5695">
+          <caret line="308" column="28" selection-start-line="308" selection-start-column="28" selection-end-line="308" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/Noticia.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2593" max-vertical-offset="3213">
+          <caret line="176" column="273" selection-start-line="176" selection-start-column="273" selection-end-line="176" selection-end-column="273" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/Sobre.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2176">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/public_html/assets/js/script_uploads.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="3995">
+          <caret line="46" column="54" selection-start-line="46" selection-start-column="54" selection-end-line="46" selection-end-column="169" />
+          <folding>
+            <marker date="1443206969042" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1443206969042" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1443206969042" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1443206969042" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1443206969042" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1443206969042" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="391">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/includes/menu.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.384615" vertical-offset="281" max-vertical-offset="1156">
+          <caret line="37" column="109" selection-start-line="37" selection-start-column="109" selection-end-line="37" selection-end-column="109" />
+          <folding>
+            <marker date="1443208172863" expanded="true" signature="-1:-1" placeholder="select * fro..acessos..." />
+            <marker date="1443208172863" expanded="true" signature="-1:-1" placeholder="select * fro..acessos_id..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/includes/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="425">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/View/includes/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="357">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Model/AbstractModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="102" max-vertical-offset="697">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/noticias.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="110.84615" vertical-offset="5993" max-vertical-offset="7276">
+          <caret line="186" column="31" selection-start-line="186" selection-start-column="31" selection-end-line="186" selection-end-column="31" />
+          <folding>
+            <marker date="1443208251500" expanded="true" signature="6632:7480" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="6792:6804" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="6986:6998" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="7221:7278" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="7279:7444" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="8612:8717" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="8950:9933" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="9165:9475" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="11110:11215" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="11448:12429" placeholder="..." />
+            <marker date="1443208251500" expanded="true" signature="11661:11971" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/banner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.5" vertical-offset="6231" max-vertical-offset="7055">
+          <caret line="408" column="13" selection-start-line="408" selection-start-column="13" selection-end-line="408" selection-end-column="13" />
+          <folding>
+            <marker date="1443208208692" expanded="true" signature="7494:7595" placeholder="..." />
+            <marker date="1443208208692" expanded="true" signature="7832:8772" placeholder="..." />
+            <marker date="1443208208692" expanded="true" signature="8043:8320" placeholder="..." />
+            <marker date="1443208208692" expanded="true" signature="9317:10165" placeholder="..." />
+            <marker date="1443208208692" expanded="true" signature="9477:9489" placeholder="..." />
+            <marker date="1443208208692" expanded="true" signature="9671:9683" placeholder="..." />
+            <marker date="1443208208692" expanded="false" signature="9906:9963" placeholder="..." />
+            <marker date="1443208208692" expanded="true" signature="9964:10129" placeholder="..." />
+            <marker date="1443208208692" expanded="true" signature="10989:11090" placeholder="..." />
+            <marker date="1443208208692" expanded="true" signature="11323:12268" placeholder="..." />
+            <marker date="1443208208692" expanded="true" signature="11534:11811" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/module/Application/Controller/sobre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="153.34616" vertical-offset="4956" max-vertical-offset="6171">
+          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+          <folding>
+            <marker date="1442939965480" expanded="true" signature="4857:5705" placeholder="..." />
+            <marker date="1442939965480" expanded="true" signature="5017:5029" placeholder="..." />
+            <marker date="1442939965480" expanded="true" signature="5211:5223" placeholder="..." />
+            <marker date="1442939965480" expanded="false" signature="5446:5503" placeholder="..." />
+            <marker date="1442939965480" expanded="true" signature="5504:5669" placeholder="..." />
+            <marker date="1442939965480" expanded="true" signature="6758:6857" placeholder="..." />
+            <marker date="1442939965480" expanded="true" signature="7090:7830" placeholder="..." />
+            <marker date="1442939965480" expanded="true" signature="7239:7381" placeholder="..." />
+            <marker date="1442939965480" expanded="true" signature="8645:8744" placeholder="..." />
+            <marker date="1442939965480" expanded="true" signature="8977:9717" placeholder="..." />
+            <marker date="1442939965480" expanded="true" signature="9126:9268" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/public_html/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8755">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_KM/public_html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058419243" vertical-offset="0" max-vertical-offset="582">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
